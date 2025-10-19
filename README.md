@@ -71,7 +71,7 @@ By combining **policy analysis**, **labor economics**, and **data visualization*
 
 **Ruipu (Simon) — Ph.D. Candidate in Economics, Tulane University**  
 📬 Research areas: Labor & Education Economics, Applied Microeconometrics  
-💻 Coding in Stata · R · Python · SQL  
+💻 Coding in Stata and Python
 📈 Passionate about turning data into insight and insight into impact  
 
 ---
