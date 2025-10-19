@@ -14,7 +14,7 @@ Using large-scale data from the **Current Population Survey (CPS, 2000–2024)**
 | File | Description |
 |------|--------------|
 | [`Trend of Occupation Choice and Wage.md`](./Trend%20of%20Occupation%20Choice%20and%20Wage.md) | Shows long-term trends in occupation composition and wage differentials between STEM and non-STEM fields. Includes visualizations for both domestic and foreign graduates. |
-| [`Trends of Majors.md`](./Trends of Majors.md) | Examines changes in the share of STEM degrees over time for bachelor’s and master’s graduates, by citizenship. Highlights how foreign STEM shares rose sharply after OPT extensions. |
+| [`Trends of Majors.md`](./Trends%20of%20Majors.md) | Examines changes in the share of STEM degrees over time for bachelor’s and master’s graduates, by citizenship. Highlights how foreign STEM shares rose sharply after OPT extensions. |
 | [`EDA_ASEC.ipynb`](./EDA_ASEC.ipynb) | Exploratory Data Analysis (EDA) for the CPS ASEC dataset, covering demographic structure, employment status, weekly working hours, and unemployment patterns. Includes data cleaning, visualizations, and descriptive insights. |
 
 ---
