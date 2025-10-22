@@ -55,17 +55,17 @@ This notebook ([`EDA_ASEC.ipynb`](./EDA_ASEC.ipynb)) provides a broad overview o
 
 ## 🛠️ Data & Tools
 
-- **Data:** Current Population Survey (CPS ASEC, 2000–2024)  
-- **Software:** Stata (data processing), Python (EDA & visualization)  
+- **Data:** Current Population Survey (CPS ASEC, 2002–2023)  
+- **Software:** Stata (data processing and the main paper), Python (EDA & visualization; for additional evidence)  
 - **Languages:** Stata · Python · Markdown  
-- **Visualization Libraries:** seaborn · matplotlib · plotly  
+- **Visualization Libraries:** seaborn · matplotlib · plotly pandas numpy
 
 ---
 
 ## 🤓 Why This Matters
 
-The OPT program is a cornerstone of U.S. immigration and education policy — it shapes how international students transition into the U.S. labor market.  
-By combining **policy analysis**, **labor economics**, and **data visualization**, this project offers a structured empirical view of how migration policy affects real-world labor dynamics.
+The OPT program is a cornerstone of U.S. immigration and education policy — it shapes how international students transition into the U.S. labor market.  It is an important bridge for foreign students to stabilize in the U.S. labor market.
+By showing some descriptive evidence, this project deepens the understanding of the basic pattern, or specifically how do foreign and domestic labor market outcomes changes averagely and dynamically.
 
 ---
 
