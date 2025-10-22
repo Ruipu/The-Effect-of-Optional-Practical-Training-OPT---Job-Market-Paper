@@ -2,13 +2,13 @@
 
 Hi there 👋 — this repository contains part of my **Job Market Paper**, where I explore how changes in the U.S. **OPT (Optional Practical Training)** program have shaped the labor market outcomes of both **foreign** and **domestic** college graduates.
 
-Using large-scale data from the **Current Population Survey (CPS, 2000–2024)**, I analyze how the 2008 and 2016 OPT extensions affected:
+Using large-scale data from the **ASEC data in Current Population Survey (CPS, 2002–2023)**, I analyze how the 2008 and 2016 OPT extensions affected:
 - 🎯 **Occupation choice** — who enters STEM jobs, and when  
 - 💰 **Wages** — how the earnings gap evolved between STEM and non-STEM workers  
 - 🌍 **Differences by citizenship** — contrasting U.S. and international graduates  
 
 ---
-
+**This repository displays some descriptive analysis and evidence within the paper and beyond the paper. This repository does not implement any regression analysis.**
 ## 📊 Repository Structure
 
 | File | Description |
