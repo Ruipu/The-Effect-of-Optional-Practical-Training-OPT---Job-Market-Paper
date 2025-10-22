@@ -20,7 +20,9 @@ Using large-scale data from the **ASEC data in Current Population Survey (CPS, 2
 ---
 
 ## 🔍 Key Insights
-
+- **Foreign students always have a high proportion in working in STTEM occupations, compared with domestic students.**
+- **For both foreign and domestic students, the wage between STEM and non-STEM positions always differs--STEM occupations are always associated with higher wage**.
+- **Comparatively, the wage gap of foreign students are larger than the gap of domestic students**.
 - 🧑‍🎓 **Foreign students** dramatically increased their share of STEM degrees after the 2016 OPT extension — especially at the master’s level.  
 - 💼 **Domestic students** also moved slightly toward STEM fields, but much more gradually.  
 - 📈 **Foreign STEM participation** and wages surged post-2016, while domestic trends remained stable.  
